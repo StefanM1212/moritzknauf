@@ -1,0 +1,4 @@
+Primärfarbe: #014421
+Basiston:    #F5F5F5
+Akzentfarbe: #C7A27C
+Textfarbe:   #000000
